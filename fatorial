@@ -1,0 +1,10 @@
+b = input('qual e o numero:')
+
+b = int(b)
+p = 1
+
+for i in range(b):
+    p = p * (i + 1)
+
+print('o fatorial:',p)
+
