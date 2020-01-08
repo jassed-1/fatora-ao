@@ -5,10 +5,10 @@ pega um numero e fatora ele
 
 ----
 
-Compilação
+Executar
 ----------
 
-Efetuar a compilação do código-fonte:
+Efetuar a Execuçao do código-fonte:
 
 
         $ python3 fatorial
