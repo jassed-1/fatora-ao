@@ -1,14 +1,14 @@
-fatoraçao
+fatoracao
 ================
 
-pega um numero e fatora ele
+Pega um numero e fatora ele
 
 ----
 
 Executar
 ----------
 
-Efetuar a Execuçao do código-fonte:
+Efetuar a execução do código-fonte:
 
 
         $ python3 fatorial
@@ -19,7 +19,7 @@ Efetuar a Execuçao do código-fonte:
 Uso 
 ---
 
-executar para realizar a fatoraçao
+executar para realizar a fatoração
 
 ----
 
